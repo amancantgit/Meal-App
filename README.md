@@ -5,7 +5,7 @@ This is Meals app Where you can know about your favourites meals. You can search
 
 ## Language Used :- 
 HTML, CSS & JavaScript. 
-# Functions :-
+## Functions :-
 1. User can see all the meals using Search bar.
 2. User can also search meals by Select by catagory.
 3. User can see the description of recipe and its instruction.
