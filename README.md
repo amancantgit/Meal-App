@@ -1,5 +1,6 @@
 # Meal-App
-https://amancantgit.github.io/Meal-App/
+
+Click [here](https://amancantgit.github.io/Meal-App/) to open app.
 
 This is Meals app Where you can know about your favourites meals. You can search about any Meals see the deatils about that meal.You can also add it into favourite list
 
