@@ -1,4 +1,4 @@
-# Meal-App
+# Meal App
 
 Click [here](https://amancantgit.github.io/Meal-App/) to open app.
 
